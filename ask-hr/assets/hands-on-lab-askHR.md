@@ -215,7 +215,7 @@ When the agent answers, click on "Show Reasoning" and confirm that the agent is 
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/fe958154-251d-46b3-9857-088ccfc82fa7" />
 
 
-Let's make a completly different question and again explore the reasoning of the agent.
+Let's make a completely different question and again analyze the reasoning of the agent.
 
 ```
 Does my company organize team building activities
@@ -225,12 +225,12 @@ Does my company organize team building activities
 
 The agent recognized that to solve this task, it would not require one of the tools we previously tested. Instead, it found the answer on the "Employee-Benefits.pdf".
 
-Feel free to scroll up and/or repeat any prompts we already tested, and explore the reasoning behind the agent's answers.
+Feel free to scroll up in the chat and/or repeat any prompts we already tested, and explore the reasoning behind the agent's answers.
 
 ### Test HR Agent AI Chat
 
 
-Test the Agent from the AI Chat window. Click on the hamburger menu in the top left corner and then click on **Chat**:
+Deploy and test the Agent from the AI Chat window. Click on the hamburger menu in the top left corner and then click on **Chat**:
 
 <img width="1000" alt="image" src="hands-on-lab-assets/step_16_v2.png">
 
