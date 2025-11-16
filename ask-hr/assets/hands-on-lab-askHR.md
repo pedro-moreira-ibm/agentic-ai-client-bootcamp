@@ -5,7 +5,6 @@
 
 - [Use Case description](#use-case-description)
 - [Architecture](#architecture)
-- [Pre-requisites](#pre-requisites)
 - [Instructions](#instructions)
   - [Open Agent Builder](#open-agent-builder)
   - [Create HR Agent](#create-hr-agent)
