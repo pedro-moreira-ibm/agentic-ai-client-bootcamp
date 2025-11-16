@@ -32,7 +32,7 @@ In this lab we will build an HR agent in watsonx Orchestrate, leveraging tools a
 
 **Participants**:
 - Validate that you have access to the right TechZone environment for this lab
-- Complete the [environment-setup](../../../environment-setup) guide for steps on API key creation and project setup.
+- Complete the [environment-setup](/environment-setup) guide for steps on API key creation and project setup.
 - Validate that you have access to a credentials file that your instructor will share with you before starting the labs
 - Familiarity with AI agent concepts (e.g., instructions, tools, collaborators...)
 - Make sure that your instructor has provided the following:
