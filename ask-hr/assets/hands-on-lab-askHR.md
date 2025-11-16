@@ -192,7 +192,7 @@ Show me my profile data.
 
 You should now see the data in a nice and clean table.
 
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/0c52d30b-8880-461b-a153-01e05686f20a" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/0c52d30b-8880-461b-a153-01e05686f20a" />
 
 ### Test HR Agent AI Chat
 
