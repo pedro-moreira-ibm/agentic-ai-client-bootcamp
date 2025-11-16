@@ -144,7 +144,7 @@ I'd like to update my title.
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_2.png">
 
-You are able to update your address.
+Try the command below and update your address.
 ```
 Update my address
 ```
