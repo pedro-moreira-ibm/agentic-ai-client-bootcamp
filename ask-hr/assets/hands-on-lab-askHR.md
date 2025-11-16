@@ -148,7 +148,7 @@ Try the command below and update your address.
 ```
 Update my address
 ```
-Besides that, you can ask what is your time off balance.
+After that, you can ask what is your time off balance.
 ```
 What is my time off balance?
 ```
@@ -163,6 +163,10 @@ Check again your profile data to see all the changes you made.
 Show my profile data.
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_4.png">
+
+### Change the Instructions of the Agent and explore new interactions
+
+
 
 ### Test HR Agent AI Chat
 
