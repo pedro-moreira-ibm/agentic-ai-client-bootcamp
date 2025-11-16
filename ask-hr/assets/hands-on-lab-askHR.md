@@ -190,8 +190,7 @@ Refresh the Preview chat to make sure the new instructions are loaded.
   <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/06f252b0-991a-4021-8ec1-5eb7184c506c" />
 </div>
 
-
-Ask the agent for your profile data. 
+<p>Ask the agent for your profile data. 
 
 ```
 Show me my profile data.
