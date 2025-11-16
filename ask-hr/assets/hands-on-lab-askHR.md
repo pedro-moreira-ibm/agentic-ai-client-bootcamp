@@ -200,8 +200,9 @@ Show me my profile data.
 
 You should now see the data in a nice and clean table.
 
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/0c52d30b-8880-461b-a153-01e05686f20a" />
-
+<div align="center">
+  <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/0c52d30b-8880-461b-a153-01e05686f20a" />
+</div>
 
 Once again, request time off and define a start and end date. Feel free to use the example below.
 
@@ -214,16 +215,18 @@ Start date is 2025-12-01 and end date is 2025-12-06
 
 When the agent answers, click on "Show Reasoning" and confirm that the agent is chosing the right tool to solve the task.
 
+<div align="center">
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/fe958154-251d-46b3-9857-088ccfc82fa7" />
-
+</div>
 
 Let's make a completely different question and again analyze the reasoning of the agent.
 
 ```
 Does my company organize team building activities
 ```
+<div align="center">
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/9a3ab2f0-0dd6-40d7-8003-475d90668924" />
-
+</div>
 
 The agent recognized that to solve this task, it would not require one of the tools we previously tested. Instead, it found the answer on the "Employee-Benefits.pdf".
 
