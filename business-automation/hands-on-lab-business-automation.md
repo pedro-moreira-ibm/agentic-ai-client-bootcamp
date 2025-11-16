@@ -24,16 +24,6 @@
 
 The sales department of ABC Motor Corp, an automotive large player, when preparing sales proposals, they were spending a lot of time understanding the features of competing products and comparing them with their own products. ABC Motor Corp, needs an automated competitive analysis system to help their sales teams quickly identify and position their products against competitors. Traditionally, gathering competitor insights required extensive manual research, making it inefficient and prone to outdated information. Therefore, the goal of this use case is to create an AI enabled system that support the customer's competitive analysis and market research.
 
-## Pre-requisites
-
-**Participants**:
-- Validate that you have access to the right TechZone environment for this lab.
-- Complete the [environment-setup](/environment-setup) guide for steps on API key creation and project setup.
-- Make sure you have created a [**watsonx** project](../../environment-setup/create-project.md) and a [Deployment Space](https://www.ibm.com/docs/en/watsonx/saas?topic=spaces-creating-deployment) in your **watsonx** project. 
-- Validate that you have access to a credentials file that your instructor will share with you before starting the labs.
-- Familiarity with AI agent concepts (e.g., instructions, tools, collaborators...)
-- Make sure that your instructor has provided the following:
-  - data file to be uploaded as knowledge
 
 ## Create a watsonx.ai Agent
 
