@@ -26,14 +26,9 @@ The sales department of ABC Motor Corp, an automotive large player, when prepari
 
 ## Pre-requisites
 
-**Instructors**: 
-- Check the corresponding [Instructor's guide](https://github.ibm.com/skol/agentic-ai-client-bootcamp-instructors/tree/main/usecase-setup/business-automation) to set up all environments and backend services.
-  > NOTE: the `main` branch contains the latest release code. If you want to use a previous release, download the same [release](https://github.ibm.com/skol/agentic-ai-client-bootcamp-instructors/releases) that will be used for participants' lab. 
-- Provide access to the data file located in the instructor repo at `usecase-setup/business-automation/assets/ABC_Motor_Product_Catalog.pdf` that will be uploaded as knowledge.
-
 **Participants**:
 - Validate that you have access to the right TechZone environment for this lab.
-- Complete the [environment-setup](../../environment-setup) guide for steps on API key creation and project setup.
+- Complete the [environment-setup](/environment-setup) guide for steps on API key creation and project setup.
 - Make sure you have created a [**watsonx** project](../../environment-setup/create-project.md) and a [Deployment Space](https://www.ibm.com/docs/en/watsonx/saas?topic=spaces-creating-deployment) in your **watsonx** project. 
 - Validate that you have access to a credentials file that your instructor will share with you before starting the labs.
 - Familiarity with AI agent concepts (e.g., instructions, tools, collaborators...)
