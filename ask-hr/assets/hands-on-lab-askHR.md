@@ -129,8 +129,15 @@ What is the pet policy?
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13.png">
 
+Ask the agent for your profile data. 
+
 ```
 Show me my profile data.
+```
+
+When asked for your name, you should choose a name from one of the company's employees (e.g. "Victoria Baker"). Find the employees list in [Users_Data](/ask-hr/assets/users_data.xlsx)
+
+```
 I'd like to update my title. 
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_2.png">
@@ -147,7 +154,7 @@ Show my profile data.
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_4.png">
 
-#### Test HR Agent AI Chat
+### Test HR Agent AI Chat
 
 Test the Agent from the AI Chat window. Click on the hamburger menu in the top left corner and then click on **Chat**:
 
