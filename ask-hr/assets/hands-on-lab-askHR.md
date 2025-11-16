@@ -23,21 +23,6 @@ In this lab we will build an HR agent in watsonx Orchestrate, leveraging tools a
 <img width="1000" alt="image" src="arch_diagm.png">
 
 
-## Pre-requisites
-
-**Instructors**: 
-- Check the corresponding [Instructor's guide](https://github.ibm.com/skol/agentic-ai-client-bootcamp-instructors/tree/main/usecase-setup/askhr) repo to set up all environments and backend services.
-  > NOTE: the `main` branch contains the latest release code. If you want to use a previous release, download the same [release](https://github.ibm.com/skol/agentic-ai-client-bootcamp-instructors/releases) that will be used for participants' lab. 
-- Ensure you have provided an updated OpenAPI Spec located in the instructor repo at `usecase-setup/askhr/HCM_APP/hr.yaml` with the correct URL to your deployed backend service for the lab participants.
-
-**Participants**:
-- Validate that you have access to the right TechZone environment for this lab
-- Complete the [environment-setup](/environment-setup) guide for steps on API key creation and project setup.
-- Validate that you have access to a credentials file that your instructor will share with you before starting the labs
-- Familiarity with AI agent concepts (e.g., instructions, tools, collaborators...)
-- Make sure that your instructor has provided the following:
-  - updated **hr.yaml OpenAPI Spec**
-
 ## Instructions
 
 ### Open Agent Builder
