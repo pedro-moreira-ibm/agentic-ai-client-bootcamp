@@ -203,7 +203,7 @@ You should now see the data in a nice and clean table.
   <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/0c52d30b-8880-461b-a153-01e05686f20a" />
 </div>
 
-Once again, request time off and define a start and end date. Feel free to use the example below.
+Once again, request time off and after define a start and end date. Feel free to use the example below.
 
 ```
 Request time off
