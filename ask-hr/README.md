@@ -59,4 +59,4 @@ HR Agent retrieves relevant information from Company Benefits Knowledge document
 
 ## 📄 Hands-on step-by-step lab
 
-Please find the step-by-step instructions [here](/usecases/ask-hr/assets/hands-on-lab-askHR.md) on how you can implement this use case.
+Please find the step-by-step instructions [here](/ask-hr/assets/hands-on-lab-askHR.md) on how you can implement this use case.
