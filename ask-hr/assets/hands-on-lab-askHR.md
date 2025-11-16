@@ -144,17 +144,21 @@ I'd like to update my title.
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_2.png">
 
+You are able to update your address.
 ```
 Update my address
 ```
+Besides that, you can ask what is your time off balance.
 ```
 What is my time off balance?
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_3.png">
 
+Request the time off by sending the message below:
 ```
 Request time off
 ```
+Check again your profile data to see all the changes you made.
 ```
 Show my profile data.
 ```
