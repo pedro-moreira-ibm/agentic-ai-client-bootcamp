@@ -146,12 +146,16 @@ I'd like to update my title.
 
 ```
 Update my address
+```
+```
 What is my time off balance?
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_3.png">
 
 ```
 Request time off
+```
+```
 Show my profile data.
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_4.png">
