@@ -135,7 +135,9 @@ Ask the agent for your profile data.
 Show me my profile data.
 ```
 
-When asked for your name, you should choose a name from one of the company's employees (e.g. "Victoria Baker"). Find the employees list in [Users_Data](/ask-hr/assets/users_data.xlsx)
+When asked for your name, you should choose a name from one of the company's employees (e.g. "Victoria Baker"). Find the employees list by downloading the [Users_Data](/ask-hr/assets/users_data.xlsx) file.
+
+After that, ask the agent to update your job title.
 
 ```
 I'd like to update my title. 
