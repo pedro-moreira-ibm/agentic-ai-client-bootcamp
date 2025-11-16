@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Architecture](#-architecture)
 - [Use Case Description](#use-case-description)
-- [Pre-requisites](#pre-requisites)
 - [Create a watsonx.ai Agent](#create-a-watsonxai-agent)
   - [Comparison Agent](#comparison-agent)
     - [Setup](#setup)
