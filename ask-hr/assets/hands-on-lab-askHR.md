@@ -168,7 +168,7 @@ Show my profile data.
 
 Let's make some small adjustments on the Instructions of the Agent. More precisely, let's try to better organize the profile data, and instruct the agent to present the data in a table for easier readability.
 
-1. Scroll down to the **Behavior** section (Section 1 in the image below). Insert the new instructions below into the **Instructions** field:
+1. Scroll down to the **Behavior** section (Section 1 in the image below). Insert the new instructions into the **Instructions** field:
 
    ```
    Use your knowledge base to answer general questions about employee benefits.
