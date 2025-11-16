@@ -164,7 +164,7 @@ Show my profile data.
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_4.png">
 
-### Adjust the Instructions of the Agent and explore new interactions
+### Adjust the Instructions of the Agent and keep exploring
 
 Let's make some small adjustments on the Instructions of the Agent. More precisely, let's try to better organize the profile data, and instruct the agent to present the data in a table for easier readability.
 
@@ -184,6 +184,10 @@ Let's make some small adjustments on the Instructions of the Agent. More precise
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_14_v3.png">
 
+Refresh the Preview chat to make sure the new instructions are loaded.
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/06f252b0-991a-4021-8ec1-5eb7184c506c" />
+
 Ask the agent for your profile data. 
 
 ```
@@ -192,7 +196,31 @@ Show me my profile data.
 
 You should now see the data in a nice and clean table.
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/0c52d30b-8880-461b-a153-01e05686f20a" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/0c52d30b-8880-461b-a153-01e05686f20a" />
+
+Once again, request time off and define a start and end date. Feel free to use the example below.
+
+```
+Request time off
+```
+```
+Start date is 2025-12-01 and end date is 2025-12-06
+```
+
+When the agent answers, click on "Show Reasoning" and confirm that the agent is chosing the right tool to solve the task.
+
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/fe958154-251d-46b3-9857-088ccfc82fa7" />
+
+Let's make a completly different question and again explore the reasoning of the agent.
+
+```
+Does my company organize team building activities
+```
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/9a3ab2f0-0dd6-40d7-8003-475d90668924" />
+
+The agent recognized that to solve this task, it would not require one of the tools we previously tested. Instead, it found the answer on the "Employee-Benefits.pdf".
+
+Feel free to scroll up and/or repeat any prompts we already tested, and explore the reasoning behind the agent's answers.
 
 ### Test HR Agent AI Chat
 
