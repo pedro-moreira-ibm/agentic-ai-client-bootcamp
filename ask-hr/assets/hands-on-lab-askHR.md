@@ -92,9 +92,11 @@ In this lab we will build an HR agent in watsonx Orchestrate, leveraging tools a
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_9_v3.png">
 
-1. Select **Add from file or MCP server**:
-
-   <img width="1000" alt="image" src="hands-on-lab-assets/step_10_v4.png">
+1. Select **Add from OpenAPI file**:
+   
+   <div align="center">
+     <img width="1467" height="999" alt="image" src="https://github.com/user-attachments/assets/3044aae4-0d1c-4de5-8b1c-08c9bb68b487" />
+   </div>
 
 1. Select **Import from file**:
 
