@@ -1,5 +1,20 @@
 # Use case: Business Automation   
 
+## **Access your environment**
+
+Access your environment (URL provided by your instructor) and enter the workshop password provided by your instructor. 
+
+<div align="center">
+   <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/55af6b31-d0e9-4eaf-926d-ccb53baf523a" />
+</div>
+
+To access IBM Cloud, click on the IBM Cloud Login.
+
+<div align="center">
+   <img width="921" height="900" alt="image" src="https://github.com/user-attachments/assets/e9d0a40a-9f1a-4d35-91c0-a374a95255f3" />
+</div>
+
+
 ## **Description**
 
 The sales department of ABC Motor Corp., a major player in the automotive industry, spends a lot of time understanding the features of competitive products and comparing them with their own when preparing sales proposals.
