@@ -1,10 +1,5 @@
 # Use case: Business Automation   
 
-
-## **Architecture**  
-
-<img width="900" alt="image" src="assets/Business_Automation_Architecture.png">
-
 ## **Description**
 
 The sales department of ABC Motor Corp., a major player in the automotive industry, spends a lot of time understanding the features of competitive products and comparing them with their own when preparing sales proposals.
@@ -13,6 +8,9 @@ ABC Motor Corp. is requesting you to create an automated competitive analysis sy
 
 Traditionally, gathering competitor insights requires extensive manual research, making the process inefficient and prone to outdated information. Therefore, the goal of this use case is to create an AI-enabled system that supports the customer's competitive analysis and market research.
 
+## **Architecture**  
+
+<img width="900" alt="image" src="assets/Business_Automation_Architecture.png">
 
 ## **AI Agents**
 
