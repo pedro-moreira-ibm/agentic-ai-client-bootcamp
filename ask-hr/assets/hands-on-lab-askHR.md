@@ -5,12 +5,15 @@
 
 - [Access your environment](#access-your-environment)
 - [Description of the use case](#description-of-the-use-case)
-- [Pre-requisites](#pre-requisites)
+- [Architecture](#Architecture)
 - [Instructions](#instructions)
   - [Open Agent Builder](#open-agent-builder)
   - [Create HR Agent](#create-hr-agent)
   - [Test HR Agent in preview](#test-hr-agent-in-preview)
-  - [Test HR Agent in AI Chat](#test-hr-agent-ai-chat)
+  - [Adjust the Instructions of the Agent and keep exploring](#Adjust-the-Instructions-of-the-Agent-and-keep-exploring)
+  - [Deploy and make your Agent available](#Deploy-and-make-your-Agent-available)
+-[Conclusion](#conclusion)
+
 
 ## **Access your environment**
 
