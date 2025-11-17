@@ -56,6 +56,14 @@ In this lab we will build an HR agent in watsonx Orchestrate, leveraging tools a
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_4_v2.png">
 -->   
+
+The natural language description of an agent is important as it is leveraged by the agentic solution to route user messages to the right agent skilled in addressing the request. For more details, please review the [Understanding the description attribute for AI Agent](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=agents-creating#understanding-the-description-attribute-for-ai-agent) documentation.
+
+**watsonx Orchestrate** supports creating an agent from scratch or from a template which involves browsing a catalog of existing agents and using attributes of another agent as a template for the new agent. For this lab, you will be creating agents from scratch.
+
+> **Note:** To discover all the pre-built agents and tools in **watsonx Orchestrate**, please consult the [catalog of pre-built agents and tools](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=discovering-catalog) documentation.
+
+
 1. Select **Default** in **Agent style** section.
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_5_v3.png">
