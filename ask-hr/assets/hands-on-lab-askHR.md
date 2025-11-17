@@ -256,5 +256,5 @@ After completing your tests and once you’re ready to make the agent available 
 </div>
 
 
-##Congratulations 🎉 You’ve reached the end of the workshop! If you have any questions, please reach out to the instructors.
+## Congratulations 🎉 You’ve reached the end of the workshop! If you have any questions, please reach out to the instructors.
 
