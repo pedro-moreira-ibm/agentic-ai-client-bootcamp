@@ -72,7 +72,7 @@ Next, you will go through the process of configuring your agent. The Product Age
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_5_v3.png">
 
-      > **Note:** For more details, Please consult the [Choosing a reasoning style for your agent](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=agents-choosing-reasoning-style-your-agent) documentation to understand the difference and how it affects the agent's behavior.
+      > **Note:** For more details, Please consult the [Choosing a reasoning style for your agent](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=agents-choosing-style-agent) documentation to understand the difference and how it affects the agent's behavior.
   
 1. Scroll down the screen to the **Knowledge** section.
    Click on **Choose knowledge**.
