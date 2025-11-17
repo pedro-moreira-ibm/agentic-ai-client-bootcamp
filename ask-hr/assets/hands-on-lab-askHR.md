@@ -255,5 +255,6 @@ After completing your tests and once you’re ready to make the agent available 
   <img width="1905" height="956" alt="image" src="https://github.com/user-attachments/assets/4bb19e44-79ca-4b19-a6f6-ebaaeab9e207" />
 </div>
 
-Congratulations 🎉 You’ve reached the end of the workshop! If you have any questions, feel free to contact the instructors.
+
+##Congratulations 🎉 You’ve reached the end of the workshop! If you have any questions, please reach out to the instructors.
 
