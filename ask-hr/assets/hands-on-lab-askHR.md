@@ -12,7 +12,7 @@ Access your environment (URL provided by your instructor) and enter the workshop
 To access IBM Cloud, click on the IBM Cloud Login.
 
 <div align="center">
-  <img width="926" height="902" alt="image" src="https://github.com/user-attachments/assets/f61362be-65f5-4773-b906-0b7863bf0033" />
+<img width="920" height="902" alt="image" src="https://github.com/user-attachments/assets/7386b2ed-4800-414e-ae6c-f0e24d71cffa" />
 </div>
 
 ## Table of Contents
