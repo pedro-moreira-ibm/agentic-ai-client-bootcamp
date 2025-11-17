@@ -3,31 +3,17 @@
 
 ## Table of Contents
 
-- [Access your environment](#access-your-environment)
 - [Description of the use case](#description-of-the-use-case)
-- [AI Agents](#ai-agents)
 - [Architecture](#architecture)
-- [Hands-on Lab Guide](#hands-on-lab-guide)
-  - [1. Create an AI agent on watsonx.ai](#1-create-an-ai-agent-on-watsonxai)
-  - [2. Import the Comparison Agent to IBM watsonx Orchestrate](#2-import-the-comparison-agent-to-ibm-watsonx-orchestrate)
-  - [3. Create the Product Agent](#3-create-the-product-agent)
-  - [4. Test your AI Agents](#4-test-your-ai-agents)
+- [Instructions](#instructions)
+  - [Access your environment](#access-your-environment)
+  - [Open Agent Builder](#open-agent-builder)
+  - [Create HR Agent](#create-hr-agent)
+  - [Test HR Agent in Preview](#test-hr-agent-in-preview)
+  - [Adjust the Instructions of the Agent and keep exploring](#adjust-the-instructions-of-the-agent-and-keep-exploring)
+  - [Deploy and make your Agent available](#deploy-and-make-your-agent-available)
 - [Conclusion](#conclusion)
 
-
-## **Access your environment**
-
-Access your environment (URL provided by your instructor) and enter the workshop password provided by your instructor. 
-
-<div align="center">
-  <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/73d85c62-7eee-445d-91d8-f3a37635377e" />
-</div>
-
-To access IBM Cloud, click on the IBM Cloud Login.
-
-<div align="center">
-<img width="920" height="902" alt="image" src="https://github.com/user-attachments/assets/7386b2ed-4800-414e-ae6c-f0e24d71cffa" />
-</div>
 
 
 ## Description of the use case
@@ -42,6 +28,20 @@ In this lab we will build an HR agent in watsonx Orchestrate, leveraging tools a
 
 
 ## Instructions
+
+### **Access your environment**
+
+Access your environment (URL provided by your instructor) and enter the workshop password provided by your instructor. 
+
+<div align="center">
+  <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/73d85c62-7eee-445d-91d8-f3a37635377e" />
+</div>
+
+To access IBM Cloud, click on the IBM Cloud Login.
+
+<div align="center">
+<img width="920" height="902" alt="image" src="https://github.com/user-attachments/assets/7386b2ed-4800-414e-ae6c-f0e24d71cffa" />
+</div>
 
 ### Open Agent Builder
 
