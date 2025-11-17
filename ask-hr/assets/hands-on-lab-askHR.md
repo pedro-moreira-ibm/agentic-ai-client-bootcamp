@@ -265,7 +265,14 @@ When the agent answers, click on "Show Reasoning" and confirm that the agent is 
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/fe958154-251d-46b3-9857-088ccfc82fa7" />
 </div>
 
-Let's make a completely different question and again analyze the reasoning of the agent.
+   • **Reasoning**: AI agent reasoning is the process by which an artificial intelligence system makes decisions to achieve a specific goal. An AI agent typically follows a cycle: it understands the environment, processes that information to understand the current situation, decides what action to take, acts on that decision and then updates its knowledge based on what happened.
+
+   AI agents don’t always act alone. They can also interact with other agents and tools to solve more complex tasks. For instance, an AI agent might call on a weather service (a tool) to check the forecast, or coordinate with another AI agent that handles scheduling.
+
+   In these examples, reasoning includes deciding which tools or agents to use, when, and how to communicate with them.
+
+
+Now, let's make a completely different question and again analyze the reasoning of the agent.
 
 ```
 Does my company organize team building activities
@@ -291,3 +298,11 @@ After completing your tests and once you’re ready to make the agent available 
 # Congratulations 🎉 You’ve reached the end of the workshop! 
 If you have any questions, please reach out to the instructors.
 
+## Conclusion
+
+This lab provided a hands-on, structured approach to building and testing AI agents in the human resources domain, using a realistic enterprise dataset.
+
+Participants from this workshop walk away with:
+- Practical experience using IBM solutions: **watsonx Orchestrate**
+- Practical knowledge of **RAG pipelines**
+- Experience **creating and deploying AI agents** to automate human resources workflows
