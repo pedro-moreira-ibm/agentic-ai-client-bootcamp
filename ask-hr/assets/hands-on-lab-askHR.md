@@ -8,10 +8,10 @@
 - [AI Agents](#ai-agents)
 - [Architecture](#architecture)
 - [Hands-on Lab Guide](#hands-on-lab-guide)
-  - [Create an AI agent on watsonx.ai](#1-create-an-ai-agent-on-watsonxai)
-  - [Import the Comparison Agent to IBM watsonx Orchestrate](#2-import-the-comparison-agent-to-ibm-watsonx-orchestrate)
-  - [Create the Product Agent](#3-create-the-product-agent)
-  - [Test your AI Agents](#4-test-your-ai-agents)
+  - [1. Create an AI agent on watsonx.ai](#1-create-an-ai-agent-on-watsonxai)
+  - [2. Import the Comparison Agent to IBM watsonx Orchestrate](#2-import-the-comparison-agent-to-ibm-watsonx-orchestrate)
+  - [3. Create the Product Agent](#3-create-the-product-agent)
+  - [4. Test your AI Agents](#4-test-your-ai-agents)
 - [Conclusion](#conclusion)
 
 
