@@ -110,6 +110,8 @@ In this lab we will build an HR agent in watsonx Orchestrate, leveraging tools a
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_13_v3.png">
 
+   In a real environment, these tools would equip your agent to connect with your enterprise applications (Salesforce, SAP, etc.).
+
 1. Scroll down to the **Behavior** section. Insert the instructions below into the **Instructions** field:
 
    ```
