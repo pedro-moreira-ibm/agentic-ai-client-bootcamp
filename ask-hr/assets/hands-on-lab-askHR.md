@@ -173,7 +173,11 @@ Check again your profile data to see all the changes you made.
 ```
 Show my profile data.
 ```
-<img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_4.png">
+
+<div align="center">
+  <img width="1524" height="724" alt="image" src="https://github.com/user-attachments/assets/8705a4dc-a798-490d-a402-191b9964aaa6" />
+</div>
+
 
 ### Adjust the Instructions of the Agent and keep exploring
 
