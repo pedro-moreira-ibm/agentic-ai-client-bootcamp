@@ -510,9 +510,9 @@ In the examples above:
 
 
 
-## **CONGRATULATIONS, YOU DID IT!! You have completed your first Agentic AI workshop.**
+# Congratulations 🎉 You’ve reached the end of the workshop! 
 
-## 5. Conclusion
+## Conclusion
 
 This lab provided a hands-on, structured approach to building and testing AI agents in the business automation domain, using a realistic enterprise dataset.
 
