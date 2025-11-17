@@ -78,7 +78,7 @@ In this lab we will build an HR agent in watsonx Orchestrate, leveraging tools a
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_8_v3.png">
 
-1. Add the Name "Employee Benefits" to the file. Also, copy the following description into the **Description** section and then click on **Save**:
+1. Add the **Name** "Employee Benefits" to the file. Also, copy the following description into the **Description** section and then click on **Save**:
 
    ```
    This knowledge base addresses the company's employee benefits, including parental leaves, pet policy, flexible work arrangements, and student loan repayment.
