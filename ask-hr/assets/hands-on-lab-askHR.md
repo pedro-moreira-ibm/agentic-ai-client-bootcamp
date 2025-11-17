@@ -286,7 +286,7 @@ The agent recognized that to solve this task, it would not require one of the to
 
 Feel free to scroll up in the chat and/or repeat any prompts we already tested, and explore the reasoning behind the agent's answers.
 
-### Test HR Agent AI Chat
+### Deploy and make your Agent available
 
 
 After completing your tests and once you’re ready to make the agent available to employees, click on "Deploy".
