@@ -249,11 +249,9 @@ Feel free to scroll up in the chat and/or repeat any prompts we already tested, 
 ### Test HR Agent AI Chat
 
 
-Deploy and test the Agent from the AI Chat window. Click on the hamburger menu in the top left corner and then click on **Chat**:
+After completing your tests and once you’re ready to make the agent available to employees, click on "Deploy".
 
-<img width="1000" alt="image" src="hands-on-lab-assets/step_16_v2.png">
+<div align="center">
+  <img width="1905" height="956" alt="image" src="https://github.com/user-attachments/assets/4bb19e44-79ca-4b19-a6f6-ebaaeab9e207" />
+</div>
 
-
-Make sure **HR Agent** is selected. You can now test your agent:
-
-<img width="1000" alt="image" src="hands-on-lab-assets/hr_step16.png">
