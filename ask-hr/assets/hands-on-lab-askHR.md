@@ -15,15 +15,6 @@ To access IBM Cloud, click on the IBM Cloud Login.
 <img width="920" height="902" alt="image" src="https://github.com/user-attachments/assets/7386b2ed-4800-414e-ae6c-f0e24d71cffa" />
 </div>
 
-## Table of Contents
-
-- [Use Case description](#use-case-description)
-- [Architecture](#architecture)
-- [Instructions](#instructions)
-  - [Open Agent Builder](#open-agent-builder)
-  - [Create HR Agent](#create-hr-agent)
-  - [Test HR Agent in preview](#test-hr-agent-in-preview)
-  - [Test HR Agent in AI Chat](#test-hr-agent-ai-chat)
 
 ## Description of the use case
 
