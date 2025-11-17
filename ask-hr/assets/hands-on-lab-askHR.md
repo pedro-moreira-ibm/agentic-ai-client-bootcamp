@@ -78,13 +78,15 @@ In this lab we will build an HR agent in watsonx Orchestrate, leveraging tools a
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_8_v3.png">
 
-1. Copy the following description into the **Description** section and then click on **Save**:
+1. Add the name "Employee Benefits" to the file. Also, copy the following description into the **Description** section and then click on **Save**:
 
    ```
    This knowledge base addresses the company's employee benefits, including parental leaves, pet policy, flexible work arrangements, and student loan repayment.
    ```
    
-   <img width="1000" alt="image" src="hands-on-lab-assets/step_8.1_v3.png">
+   <div align="center">
+     <img width="1024" height="474" alt="image" src="https://github.com/user-attachments/assets/ad58437b-d055-416a-83a2-4c84517550f7" />
+   </div>
 
 1. Scroll down to the **Toolset** section. Click on **Add tool +**:
 
