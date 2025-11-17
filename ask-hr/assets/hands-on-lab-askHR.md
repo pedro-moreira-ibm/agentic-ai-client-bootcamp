@@ -12,7 +12,7 @@
   - [Test HR Agent in preview](#test-hr-agent-in-preview)
   - [Adjust the Instructions of the Agent and keep exploring](#Adjust-the-Instructions-of-the-Agent-and-keep-exploring)
   - [Deploy and make your Agent available](#Deploy-and-make-your-Agent-available)
--[Conclusion](#conclusion)
+- [Conclusion](#conclusion)
 
 
 ## **Access your environment**
