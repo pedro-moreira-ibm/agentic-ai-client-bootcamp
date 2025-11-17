@@ -143,7 +143,14 @@ We will now create the **Comparison Agent** using **watsonx.ai's Agent Lab** fea
    <img width="1900" height="519" alt="image" src="https://github.com/user-attachments/assets/80e48706-fddf-49e0-a9d9-0707fba6d626" />
 </div>
 
-Let's start to design and deploy the **Comparison Agent**. 
+2. Select "Build an AI agent to automate tasks", as shown in the image below.
+
+<div align="center">
+   <img width="1793" height="873" alt="image" src="https://github.com/user-attachments/assets/26eea748-1ed7-4ec9-a40c-144c738bbbe4" />
+</div>
+
+
+Let's start to design and deploy the **Comparison Agent**!
 
 
 #### **1. Setup**  
