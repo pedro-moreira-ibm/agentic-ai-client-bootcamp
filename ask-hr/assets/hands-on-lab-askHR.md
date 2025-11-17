@@ -5,13 +5,13 @@
 
 - [Access your environment](#access-your-environment)
 - [Description of the use case](#description-of-the-use-case)
-- [Architecture](#Architecture)
-- [Instructions](#instructions)
-  - [Open Agent Builder](#open-agent-builder)
-  - [Create HR Agent](#create-hr-agent)
-  - [Test HR Agent in preview](#test-hr-agent-in-preview)
-  - [Adjust the Instructions of the Agent and keep exploring](#Adjust-the-Instructions-of-the-Agent-and-keep-exploring)
-  - [Deploy and make your Agent available](#Deploy-and-make-your-Agent-available)
+- [AI Agents](#ai-agents)
+- [Architecture](#architecture)
+- [Hands-on Lab Guide](#hands-on-lab-guide)
+  - [Create an AI agent on watsonx.ai](#1-create-an-ai-agent-on-watsonxai)
+  - [Import the Comparison Agent to IBM watsonx Orchestrate](#2-import-the-comparison-agent-to-ibm-watsonx-orchestrate)
+  - [Create the Product Agent](#3-create-the-product-agent)
+  - [Test your AI Agents](#4-test-your-ai-agents)
 - [Conclusion](#conclusion)
 
 
