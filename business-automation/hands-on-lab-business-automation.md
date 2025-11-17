@@ -1,14 +1,11 @@
 # Use case: Business Automation   
 
-## **0. Welcome**
 
-Welcome to your first Agentic AI workshop!
-
-## **1. Architecture**  
+## **Architecture**  
 
 <img width="900" alt="image" src="assets/Business_Automation_Architecture.png">
 
-## **2. Description**
+## **Description**
 
 The sales department of ABC Motor Corp., a major player in the automotive industry, spends a lot of time understanding the features of competitive products and comparing them with their own when preparing sales proposals.
 
@@ -17,7 +14,7 @@ ABC Motor Corp. is requesting you to create an automated competitive analysis sy
 Traditionally, gathering competitor insights requires extensive manual research, making the process inefficient and prone to outdated information. Therefore, the goal of this use case is to create an AI-enabled system that supports the customer's competitive analysis and market research.
 
 
-## **3. AI Agents**
+## **AI Agents**
 
 During this Agentic AI workshop, you will create **2 AI agents**, each of them with a specific purpose:
 
