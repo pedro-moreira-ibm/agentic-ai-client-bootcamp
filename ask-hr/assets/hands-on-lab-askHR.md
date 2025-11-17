@@ -1,6 +1,17 @@
 
 # 🧑‍💼 AskHR: Automate HR tasks with Agentic AI
 
+## Table of Contents
+
+- [Access your environment](#access-your-environment)
+- [Description of the use case](#description-of-the-use-case)
+- [Pre-requisites](#pre-requisites)
+- [Instructions](#instructions)
+  - [Open Agent Builder](#open-agent-builder)
+  - [Create HR Agent](#create-hr-agent)
+  - [Test HR Agent in preview](#test-hr-agent-in-preview)
+  - [Test HR Agent in AI Chat](#test-hr-agent-ai-chat)
+
 ## **Access your environment**
 
 Access your environment (URL provided by your instructor) and enter the workshop password provided by your instructor. 
