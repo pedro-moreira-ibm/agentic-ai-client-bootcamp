@@ -1,18 +1,18 @@
 # Use case: Business Automation   
 
-## **Access your environment**
+## Table of Contents
 
-Access your environment (URL provided by your instructor) and enter the workshop password provided by your instructor. 
+- [Description of the use case](#description-of-the-use-case)
+- [Architecture](#architecture)
+- [AI Agents](#ai-agents)
+- [Hands-on Lab Guide](#hands-on-lab-guide)
+  - [Access your environment](#access-your-environment)
+  - [Create an AI agent on watsonx.ai](#1-create-an-ai-agent-on-watsonxai)
+  - [Import the Comparison Agent to IBM watsonx Orchestrate](#2-import-the-comparison-agent-to-ibm-watsonx-orchestrate)
+  - [Create the Product Agent](#3-create-the-product-agent)
+  - [Test your AI Agents](#4-test-your-ai-agents)
+- [Conclusion](#conclusion)
 
-<div align="center">
-   <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/55af6b31-d0e9-4eaf-926d-ccb53baf523a" />
-</div>
-
-To access IBM Cloud, click on the IBM Cloud Login.
-
-<div align="center">
-   <img width="921" height="900" alt="image" src="https://github.com/user-attachments/assets/e9d0a40a-9f1a-4d35-91c0-a374a95255f3" />
-</div>
 
 
 ## **Description of the use case**
@@ -41,6 +41,22 @@ During this Agentic AI workshop, you will create **2 AI agents**, each of them w
 ###
 # **Hands-on Lab Guide**
 ###
+
+## **Access your environment**
+
+Access your environment (URL provided by your instructor) and enter the workshop password provided by your instructor. 
+
+<div align="center">
+   <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/55af6b31-d0e9-4eaf-926d-ccb53baf523a" />
+</div>
+
+To access IBM Cloud, click on the IBM Cloud Login.
+
+<div align="center">
+   <img width="921" height="900" alt="image" src="https://github.com/user-attachments/assets/e9d0a40a-9f1a-4d35-91c0-a374a95255f3" />
+</div>
+
+
 ## **1. Create an AI agent on watsonx.ai** 
 
 To access **watsonx.ai**, follow these steps:
