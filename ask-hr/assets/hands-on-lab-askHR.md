@@ -1,6 +1,20 @@
 
 # 🧑‍💼 AskHR: Automate HR tasks with Agentic AI
 
+## **Access your environment**
+
+Access your environment (URL provided by your instructor) and enter the workshop password provided by your instructor. 
+
+<div align="center">
+  <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/73d85c62-7eee-445d-91d8-f3a37635377e" />
+</div>
+
+To access IBM Cloud, click on the IBM Cloud Login.
+
+<div align="center">
+  <img width="926" height="902" alt="image" src="https://github.com/user-attachments/assets/f61362be-65f5-4773-b906-0b7863bf0033" />
+</div>
+
 ## Table of Contents
 
 - [Use Case description](#use-case-description)
@@ -11,7 +25,7 @@
   - [Test HR Agent in preview](#test-hr-agent-in-preview)
   - [Test HR Agent in AI Chat](#test-hr-agent-ai-chat)
 
-## Use Case Description
+## Description of the use case
 
 This use case targets developing and deploying an AskHR agent leveraging IBM watsonx Orchestrate, as depicted in the provided architecture diagram. This agent will empower employees to interact with HR systems and access information efficiently through conversational AI. 
 
@@ -67,6 +81,9 @@ Next, you will go through the process of configuring your agent. The Product Age
 - The right half is a preview chat interface that allows you to test the behavior of your agent.
 - The left half of the page consits of five key sections that you can use to configure your agent.
 
+<div align="center">
+  <img width="3010" height="1728" alt="image" src="https://github.com/user-attachments/assets/51bffc70-ca49-4243-846e-ec7334fc8d86" />
+</div>
 
 1. Select **Default** in **Agent style** section.
 
