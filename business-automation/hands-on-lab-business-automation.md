@@ -15,7 +15,7 @@ To access IBM Cloud, click on the IBM Cloud Login.
 </div>
 
 
-## **Description**
+## **Description of the use case**
 
 The sales department of ABC Motor Corp., a major player in the automotive industry, spends a lot of time understanding the features of competitive products and comparing them with their own when preparing sales proposals.
 
