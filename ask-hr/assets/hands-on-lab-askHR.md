@@ -78,7 +78,7 @@ In this lab we will build an HR agent in watsonx Orchestrate, leveraging tools a
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_8_v3.png">
 
-1. Add the name "Employee Benefits" to the file. Also, copy the following description into the **Description** section and then click on **Save**:
+1. Add the Name "Employee Benefits" to the file. Also, copy the following description into the **Description** section and then click on **Save**:
 
    ```
    This knowledge base addresses the company's employee benefits, including parental leaves, pet policy, flexible work arrangements, and student loan repayment.
@@ -192,11 +192,11 @@ Let's make some small adjustments on the Instructions of the Agent. More precise
 
    Use the tools to get or update user specific information.
 
-   When user asks to show profile data or check time off balance or update title/address or request time off for the very first time,  first ask the user for         their name,  then invoke the tool and then use the same name in the whole session without asking for the name again.
+   When user asks to show profile data or check time off balance or update title/address or request time off for the very first time,  first ask the user for their name, then invoke the tool and then use the same name in the whole session without asking for the name again.
    
-   When the user requests time off, convert the dates to YYYY-MM-DD format, e.g. 5/22/2025 should be converted to 2025-05-22 before passing the date to the           post_request_time_off tool.
+   When the user requests time off, convert the dates to YYYY-MM-DD format, e.g. 5/22/2025 should be converted to 2025-05-22 before passing the date to the post_request_time_off tool.
    
-   When user asks to see, change or update data, present the final information in a table for an easier readability and before that table, write something            similar to “This is the information associated to your current profile.”.
+   When user asks to see, change or update data, present the final information in a table for an easier readability and before that table, write something similar to “This is the information associated to your current profile.”.
    ```
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_14_v3.png">
