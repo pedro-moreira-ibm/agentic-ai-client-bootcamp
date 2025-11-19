@@ -405,7 +405,7 @@ Next, you will go through the process of configuring your agent. The Product Age
 17. After clicking the **Choose knowledge** button, a pop-up window will appear. Select **Upload Files**, then click **Next**.
    ![Knowledge](assets/BAP_5_K_2.png)
 
-18. Next, choose the knowledge source. In our case, it's the Product Catalog (ABC_Motor_Product_Catalog.pdf located in the Box folder provided by the instructor).
+18. Next, choose the knowledge source. In our case, it's the [ABC Motors Corp's Product Catalog](assets/ABC_Motor_Product_Catalog.pdf).
    ![Knowledge](assets/BAP_6_K.png)
 
 19. Once the file is uploaded, the screen will look like the one below. Click **Next** to proceed.
