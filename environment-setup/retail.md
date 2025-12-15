@@ -236,9 +236,9 @@ Once you have these prerequisites available, you can install the ADK by followin
 
 > **Note**: These instructions were created for a specific version of the ADK, namely version **1.8.0**. We recommend you specify that version when running the install: `pip install ibm-watsonx-orchestrate==1.8.0`.
 
-You also need to install the watsonx Orchestrate Developer Edition, which is part of the ADK, by following the related [install instructions](https://developer.watson-orchestrate.ibm.com/getting_started/wxOde_setup). However, **DO NOT** set up the .env file as described in the instructions! You already have the right values in your .env file if you followed the instructions above.
+You also need to install the watsonx Orchestrate Developer Edition, which is part of the ADK, by following the related [install instructions](https://developer.watson-orchestrate.ibm.com/developer_edition/wxOde_setup). However, **DO NOT** set up the .env file as described in the instructions! You already have the right values in your .env file if you followed the instructions above.
 
-After you created the .env file with the values given to you, you can follow the instructions to start the server for the first time as documented [here](https://developer.watson-orchestrate.ibm.com/getting_started/wxOde_setup#installing-the-watsonx-orchestrate-developer-edition-with-adk). Note that the first time you run it, it will download all the required container images from the IBM image registry, which will take some time. Also, make sure you specify the `-i` option to allow the server to collect telemetry data.
+After you created the .env file with the values given to you, you can follow the instructions to start the server for the first time as documented [here](https://developer.watson-orchestrate.ibm.com/getting_started/installing). Note that the first time you run it, it will download all the required container images from the IBM image registry, which will take some time. Also, make sure you specify the `-i` option to allow the server to collect telemetry data.
 
 #### Virtual machine
 
@@ -294,4 +294,4 @@ Click on the Plus sign as shown in the image above. Name your key "default". Aft
 
 To complete the setup for this use case, we will add the Tavily API key to the .env file as before, with an editor of your choice. Add your key to the `TAVILY_API_KEY` variable.
 
-This is it! You are now ready to proceed to the [detailed lab instructions](../usecases/retail/retail.md).
+This is it! You are now ready to proceed to the [detailed lab instructions](retail/retail.md).
