@@ -22,7 +22,8 @@ The business value of this solution lies in its ability to drive sales growth, i
 Additionally, this solution can help retailers to better understand their customers' behavior and preferences, enabling them to make more informed decisions about product offerings, pricing, and promotions. By automating the process of analyzing customer behavior and market trends, retailers can also reduce the time and resources required to make these decisions, leading to increased operational efficiency and reduced costs.
 
 ## 🏛️ Architecture
-![Retail Architecture](https://github.ibm.com/skol/agentic-ai-client-bootcamp/assets/13654/d18fdbd0-02fe-4d1f-9734-c93b9b30ffd1)
+<img width="1283" height="784" alt="image" src="https://github.com/user-attachments/assets/258c98a8-af2a-4772-8336-aa2b1ebc7e03" />
+
 
 
 ## 📄 Step-by-step Hands-on Instructions
