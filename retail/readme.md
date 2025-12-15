@@ -29,7 +29,5 @@ Additionally, this solution can help retailers to better understand their custom
 ## 📄 Step-by-step Hands-on Instructions
 You can find step-by-step instructions in [this document](./retail.md). It shows how you can implement the use case using watsonx.ai and watsonx Orchestrate.
 
-## Demo Video
-https://github.ibm.com/skol/agentic-ai-client-bootcamp/assets/13654/3610ae1d-0c4f-424d-be83-115ce82c33f6
 
 
