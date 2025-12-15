@@ -21,7 +21,7 @@
 
 ## Introduction
 
-This document contains the documentation for the setup of the environment to prepare for the step-by-step walkthrough of the [Retail use case](../usecases/retail/).
+This document contains the documentation for the setup of the environment to prepare for the step-by-step walkthrough of the [Retail use case](../retail/).
 
 The use case takes you through the creation of tools and agents using the [IBM watsonx Orchestrate Agent Development Kit (ADK)](https://developer.watson-orchestrate.ibm.com/). This toolkit can be installed on a local machine or accessed via virtual machine and brings with it the core components of watsonx Orchestrate, as container images that are running in a container runtime like Docker or Rancher. It also includes a CLI that can be used to manage a locally running instance as well as remote instances running in the cloud.
 
