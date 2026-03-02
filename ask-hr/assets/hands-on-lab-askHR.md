@@ -184,7 +184,7 @@ Next, you will go through the process of configuring your agent. The Product Age
 Test your agent in the preview chat on the right side by asking the following questions and validating the responses.  They should look similar to what is shown in the screenshots below:
 
 ```
-What is the pet policy? 
+Does my company have any pet policy? 
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13.png">
 
@@ -199,13 +199,13 @@ When asked for your name, you should choose a name of one of the company's emplo
 After that, ask the agent to update your job title.
 
 ```
-I'd like to update my title. 
+I'd like to update my title to Sr AI Engineer.
 ```
 <img width="1000" alt="image" src="hands-on-lab-assets/hr_step13_2.png">
 
 Try the command below and update your address.
 ```
-Update my address
+Update my address to 222 Main St, San Francisco, CA 94105
 ```
 After that, you can ask what is your time off balance.
 ```
